@@ -1,5 +1,5 @@
 # 3D-Tronics
-presented by Eunoia Junior College robotics
+presented by Eunoia Junior College Computing and Robotics Clubs
 
 We aim to create a device using micro:bit to help those with:
 
