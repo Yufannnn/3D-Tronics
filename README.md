@@ -1,37 +1,23 @@
-# 3D-Tronics
-presented by Eunoia Junior College Computing and Robotics Clubs
+# 3D-Tronics: Empowering Independence for Individuals with Upper Body Weakness
 
-We aim to create a device using micro:bit to help those with:
+Introduction:
+Welcome to the 3D-Tronics project, an outstanding achievement by the Eunoia Junior College Computing and Robotics Club, which earned the runner-up prize in the 2019 Singapore 3D Tronics Competition. Our mission was to create an innovative device using micro:bit to assist individuals facing physical disabilities, with a particular focus on those with upper body weaknesses.
 
-PHYSICAL DISABILITY
-“A limitation on a person’s physical functioning, mobility,
-dexterity or stamina.”
+Target Users:
+The 3D-Tronics device was designed to support individuals who experience limitations in physical functioning, mobility, dexterity, or stamina. This group includes individuals with congenital conditions, those recovering from serious injuries, and seniors facing muscle weakness due to aging.
 
-UPPER BODY WEAKNESSES
+The Challenge:
+People with upper body weaknesses often encounter difficulties in carrying their belongings or daily essentials. This limitation may lead them to rely on solutions such as pushcarts or having constant assistance from others, impacting their independence and sense of self-reliance.
 
-Caused by congenital conditions or acquired due to
-serious injury, or muscle weakness due to old age.
+Intended Outcome:
+Our primary goal was to alleviate some of the physical burdens faced by individuals with upper body weaknesses, thereby promoting their independence and enhancing their quality of life. We envisioned a device that could follow the user seamlessly, even on slopes, and carry a few kilograms of load on their behalf.
 
-Sufferers face difficulty carrying their stuff with their
-hands, thus they turn to solutions such as using a
-pushcart or having a helper on hand.
+Key Features:
+- Portability: The micro:bit device was ingeniously integrated into our solution, ensuring it could be conveniently carried in the user's pocket.
+- Enhanced Independence: By removing the responsibility of carrying their belongings, the 3D-Tronics device provided users with increased autonomy to carry out their daily activities without relying on constant external support.
 
-INTENDED OUTCOME of our device:
+Our Achievement:
+We are immensely proud to have earned the runner-up prize in the 2019 Singapore 3D Tronics Competition. This recognition is a testament to the dedication and creativity of our club members. Our 3D-Tronics device received accolades for its ingenuity, practicality, and potential to improve the lives of individuals with upper body weaknesses.
 
-Following the user, including on slopes
-
-Carry a few kilogrammes of load
-
-Will alleviate some physical burden on those with upper
-body weakness
-
-Some of the features of our device:
-
-micro:bit can be kept in pocket
-
-Alleviate the burden for people with upper-body
-weaknesses to carry out their daily activities
-
-Doing so by removing the responsibility of them carrying
-their own stuff, which most of them cannot, and thus
-gives them more independence
+Conclusion:
+The 3D-Tronics project remains a significant milestone for the Eunoia Junior College Computing and Robotics Club. It showcases our passion for leveraging technology to address real-world challenges and our commitment to creating a more inclusive society. We will forever cherish the memories of this project and the impact it had on the lives of individuals with physical disabilities. Moving forward, we are inspired to continue developing innovative solutions that make a positive difference in the world.
