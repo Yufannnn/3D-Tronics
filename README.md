@@ -3,6 +3,8 @@
 Introduction:
 Welcome to the 3D-Tronics project, an outstanding achievement by the Eunoia Junior College Computing and Robotics Club, which earned the runner-up prize in the 2019 Singapore 3D Tronics Competition. Our mission was to create an innovative device using micro:bit to assist individuals facing physical disabilities, with a particular focus on those with upper body weaknesses.
 
+![image](3D.png)
+
 Target Users:
 The 3D-Tronics device was designed to support individuals who experience limitations in physical functioning, mobility, dexterity, or stamina. This group includes individuals with congenital conditions, those recovering from serious injuries, and seniors facing muscle weakness due to aging.
 
